@@ -1,5 +1,7 @@
 # Voltway Procurement Management System
 
+Winner of the Dryft Challenge at Caltech Hacks 2025
+
 A comprehensive procurement and inventory management system for Voltway electric scooters. This application helps manage parts inventory, track orders, analyze sales data, and monitor supplier reliability.
 
 ## Tech Stack
