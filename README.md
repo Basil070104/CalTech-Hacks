@@ -20,6 +20,9 @@ A comprehensive procurement and inventory management system for Voltway electric
 - **Python** - Backend language
 - **Flask** - Web framework
 - **Firebase Admin SDK** - Database interaction
+- **LangChain** - Agent building framework
+- **LangGraph** - Converting data into a graphical representation
+- **GPT o4-mini and 3.5-Turbo** - Models used
 
 ### Database
 
